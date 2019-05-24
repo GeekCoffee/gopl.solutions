@@ -12,7 +12,7 @@
 	
 
 ------------
-![mahua](https://www.github.com/GeekCoffee/gopl.solutions/solutions/cover/cover.png)
+![gopl_cover_pic](https://github.com/GeekCoffee/gopl.solutions/blob/master/solutions/cover/cover.png)
 	
 	
 
