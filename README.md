@@ -11,7 +11,6 @@
 	
 	
 
-------------
 ![gopl_cover_pic](https://github.com/GeekCoffee/gopl.solutions/blob/master/solutions/cover/cover.png)
 	
 	
